@@ -1,3 +1,5 @@
+# Javascript-mini-project
+---
 # FDS18 - Border Box
 
 ## 🎥 Demo Video
